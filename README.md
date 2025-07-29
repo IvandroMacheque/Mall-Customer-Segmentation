@@ -124,3 +124,4 @@ A barra lateral também contém links diretos para o repositório do projeto, me
 
 # 🔗 Link da Aplicação
 
+https://customerprofileprediction.streamlit.app/
